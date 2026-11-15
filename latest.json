@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "minSupportedVersion": "0.1.0",
-  "url": "https://github.com/saliox/prio-lock/releases/download/v0.2.0/PrioLock-Setup-0.2.0.exe",
-  "sha256": "ad26120ff83e806d89cf622fc862d8bdb9ab7d50060b5d40c623bbf46092e3ac",
-  "size": 82201684,
+  "url": "https://github.com/saliox/prio-lock/releases/download/v0.2.1/PrioLock-Setup-0.2.1.exe",
+  "sha256": "f06121663bbded17559c4ff0899a1d3d09c60925e5257f9c4eed68cb0f54ae05",
+  "size": 82293046,
   "released": "2026-11-15",
-  "notes": "PrioLock 0.2.0 : premiere version publiee. Mises a jour signees (Ed25519) : PrioLock refuse toute mise a jour sans signature valide ; installeur telecharge dans un dossier protege et reverifie juste avant son lancement. Installation pour tous les utilisateurs (Program Files)."
+  "notes": "PrioLock 0.2.1 : le code de l'application est desormais protege contre la lecture (obfuscation) ; aucun changement de fonctionnement."
 }
